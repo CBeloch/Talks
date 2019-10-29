@@ -1,7 +1,7 @@
 # Think Codables
 
-Conference: [Macoun](https://macoun.de)
-Date: 2019-10-05
+Conference: [Macoun](https://macoun.de)  
+Date: 2019-10-05  
 Language:  🇩🇪 German
 
 ## Summary
