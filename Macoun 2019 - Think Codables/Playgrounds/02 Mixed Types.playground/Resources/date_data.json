@@ -1,0 +1,18 @@
+{
+  "variantA": "2019-10-05",
+  
+  "variantB": {
+    "date": "2019-10-05 12:30:00",
+    "timezone_type": 3,
+    "timezone": "Europe/Berlin"
+  },
+  
+  "variantC": {
+    "day": 5,
+    "month": 10,
+    "year": 2019,
+    "hour": 12,
+    "minute": 30,
+    "second": 0
+  }
+}
