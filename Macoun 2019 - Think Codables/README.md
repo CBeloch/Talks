@@ -16,6 +16,8 @@ Based on my [corresponding guides on somekindofcode.com](https://somekindofcode.
 - [Playgrounds](./Playgrounds)
   - Created using Xcode 11
   - Swift 5
+- [Video of the talk](https://macoun.de/video2019/gs6.php) @ macoun.de
+  - Also available as a video podcast ([macoun Konferenz HD @ Apple Podcasts](https://podcasts.apple.com/us/podcast/think-codables-christopher-beloch/id490408750?i=1000456997680&l=de))
 
 ## Other Resources
 
